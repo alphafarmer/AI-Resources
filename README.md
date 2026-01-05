@@ -18,6 +18,11 @@ Harness = https://www.anthropic.com/engineering/effective-harnesses-for-long-run
 Gemini Vs Claude code = https://composio.dev/blog/gemini-cli-vs-claude-code-the-better-coding-agent
 Adv tool use = https://www.anthropic.com/engineering/advanced-tool-use
 
+Books refs
+https://huyenchip.com/2023/04/11/llm-engineering.html#part_3_promising_use_cases
+
+
+
 Benchmarks
 https://artificialanalysis.ai/benchmarks/hardware
 
